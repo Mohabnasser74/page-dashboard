@@ -960,7 +960,6 @@ header .wrapper .fa-xmark {
 .latest-news .border-bottom-none {
     display: flex;
     margin: 10px 0;
-    height: 68px;
     justify-content: center;
     align-items: center;
     border-bottom: none;
